@@ -1,6 +1,6 @@
-## Hi there 👋
 
-# 👋 أهلاً، أنا محمد البرعي | Mohamed Elboraiy
+
+# 👋 أهلاً، أنا محمد البرعي | Mohamed Elboraiy 
 ### 🎓 Computer Science Student & Aspiring Front-End Developer 💻
 
 ---
